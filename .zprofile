@@ -1,0 +1,5 @@
+export PATH="$GEM_HOME/bin:$PATH"
+export PATH="$HOME/.fastlane/bin:$PATH"
+export PATH="/Users/jenkins/.rbenv/bin:/Users/jenkins/.rbenv/shims:/usr/local/bin:/Users/jenkins/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
+export PATH="/Users/jenkins/.rbenv/bin:/Users/jenkins/.rbenv/shims:/Users/jenkins/.rbenv/bin:/Users/jenkins/.rbenv/shims:/usr/local/bin:/Users/jenkins/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/jenkins/.fastlane/bin:/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:$PATH"
+export PATH="/Users/jenkins/.rbenv/bin:/Users/jenkins/.rbenv/shims:/usr/local/bin:/Users/jenkins/.rbenv/bin:/Users/jenkins/.rbenv/shims:/Users/jenkins/.rbenv/bin:/Users/jenkins/.rbenv/shims:/Users/jenkins/.rbenv/bin:/Users/jenkins/.rbenv/shims:/usr/local/bin:/Users/jenkins/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/jenkins/.fastlane/bin:/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/jenkins/.rbenv/bin:/Users/jenkins/.rbenv/shims:/usr/local/bin:/Users/jenkins/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/jenkins/.fastlane/bin:/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:$PATH"
